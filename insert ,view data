@@ -1,0 +1,7 @@
+  INSERT INTO 
+  employes(id , name , salary)
+  VALUES
+  (1,"aman" , 15000),
+  (2, "bob" , 30000),
+  (3, "casey", 40000);
+  SELECT * FROM employes;
